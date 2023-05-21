@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Odin Recipe</title>
+</head>
+<body class="body">
+    <div class="header">
+        <h1>Grilled Teriyaki Shrimp and Pineapple Skewers</h1>
+        <p>These savory-sweet shrimp skewers are easy to make and cook in just a few minutes. They are perfect for summer weeknights or weekend dinner parties. Prep the sauce ahead of time for an even faster dinner. I prefer to use jumbo shrimp (21 to 25 per pound), however use what you have on hand.</p>
+    </div>
+    <div class="photo">
+        <img src="shrimp.webp" ></a>
+    </div>
+    <div class="cook-time">
+        <p class="prep"><b>Prep Time: </b>25 Minutes</p>
+        <p class="cook"><b>Cook Time: </b>20 Minutes</p>
+        <p class="total"><b>Total Time: </b>45 Minutes</p>
+        <p class="servings"><b>Servings: </b>4</p>
+    </div>
+    <div class="ingredients">
+        <h2>Ingredients</h2>
+        <li>1/3 Cup Water</li>
+        <li>2 Tablespoons Soy Sauce</li>
+        <li>2 tablespoons Brown Sugar</li>
+        <li>1 Teaspoon Honey</li>
+        <li>1 Teaspoon Grated Fresh Garlic</li>
+        <li>1 Pound Jumbo Shrimp</li>
+        <li>1/2 Fresh Pineapple, cored and cut into 1 1/2 inch pieces</li>
+        <li>Skewers</li>
+        <li>2 Tablespoons Minced Fresh Cilantro</li>
+        <li>1 Tablesppon Toasted Seasame Seeds</li>
+    </div>
+    <div class="directions">
+        <h2>Directions</h2>
+        <h5>Step 1</h5>
+        <p>Combine water, soy sauce, brown sugar, honey, garlic, and ginger in a small saucepan and bring to a boil over medium-high heat. Reduce heat to medium-low and simmer until sauce has reduced and thickened slightly, 8 to 10 minutes.</p>
+        <h5>Step 2</h5>
+        <p>Preheat an outdoor grill for medium-high heat and lightly oil grate. Thread shrimp and pineapple alternately onto skewers and place on a platter.</p>
+        <h5>Step 3</h5>
+        <p>Arrange skewers on the hot grate. Grill 2 to 3 minutes per side, or until shrimp is opaque and cooked through. Turn grill to low heat and brush sauce on both sides of skewers. Transfer to a serving platter and sprinkle with cilantro and sesame seeds.</p>
+    </div>
+    <section class="links">
+        <ul>
+            <li><a href="https://www.allrecipes.com/recipe/8948/italian-chicken-marinade/">Italian Chicken Marinade</li>
+            <li><a href="https://www.allrecipes.com/recipe/228266/marinated-grilled-pork-tenderloin/">Marinated Grilled Pork Tenderloin</li>
+            <li><a href="https://www.allrecipes.com/recipe/72657/best-hamburger-ever/">Best Hamburger Ever</li>
+        </ul>
+    </section>
+</body>
+</html>
